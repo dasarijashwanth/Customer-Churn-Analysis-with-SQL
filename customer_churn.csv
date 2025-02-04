@@ -1,0 +1,21 @@
+customer_id,name,age,gender,location,subscription_type,monthly_spending,total_spending,last_login,churn
+1,Alice,25,Female,New York,Basic,20,200,2024-01-15,0
+2,Bob,34,Male,Los Angeles,Premium,100,1200,2023-12-30,1
+3,Charlie,45,Male,Chicago,Basic,30,360,2024-01-20,0
+4,David,29,Male,Houston,Enterprise,200,2400,2023-11-05,1
+5,Emma,41,Female,Phoenix,Premium,150,1800,2023-12-01,1
+6,Frank,36,Male,San Antonio,Enterprise,250,3000,2023-10-25,1
+7,Grace,50,Female,San Diego,Basic,25,275,2024-01-10,0
+8,Hannah,28,Female,Dallas,Premium,90,1080,2023-12-15,0
+9,Ian,32,Male,San Jose,Basic,35,420,2024-01-05,0
+10,Jack,40,Male,Austin,Enterprise,180,2160,2023-11-20,1
+11,Katie,27,Female,Jacksonville,Premium,130,1560,2023-12-10,1
+12,Leo,39,Male,Fort Worth,Enterprise,220,2640,2023-10-15,1
+13,Mia,33,Female,Columbus,Basic,28,300,2024-01-02,0
+14,Noah,31,Male,San Francisco,Premium,110,1320,2023-12-05,1
+15,Olivia,42,Female,Charlotte,Basic,40,480,2024-01-18,0
+16,Paul,38,Male,Indianapolis,Enterprise,190,2280,2023-11-10,1
+17,Quinn,26,Non-binary,Seattle,Premium,140,1680,2023-12-20,0
+18,Ryan,30,Male,Denver,Enterprise,230,2760,2023-10-30,1
+19,Sophia,44,Female,Washington,Basic,32,384,2024-01-12,0
+20,Tom,37,Male,Boston,Premium,120,1440,2023-12-25,1

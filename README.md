@@ -1,5 +1,5 @@
 # Customer-Churn-Analysis-with-SQL
-
+![](https://github.com/dasarijashwanth/Customer-Churn-Analysis-with-SQL/blob/main/Customer-Churn.png)
 ## 📌 Project Overview
 This project analyzes customer churn using SQL and a CSV dataset. The goal is to understand why customers leave and provide actionable insights to improve retention.
 
